@@ -164,6 +164,7 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           仅供效果测试，请不要大量调用，谢谢
+          2024.03.21 被Google Cloud检测到违反API限流规定，如需使用请自行配置API KEY
         </div>
         <div className={styles["sidebar-sub-title"]}>
            <a href="mailto:jingzhou1994@gmail.com" >
